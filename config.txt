@@ -1,0 +1,6 @@
+owner=506776243111460895
+prefix=d
+game=Type dplay
+stayinchannel=true
+songinstatus=false
+token=NTQ0MjUyMTk0MzQ2NTAwMTU2.D0IaVQ.kdabuF5g9dlQx15QzNzHsi0xwo0
